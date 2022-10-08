@@ -3,3 +3,10 @@
     top: 0;
     padding: 30px 20px;
 }
+.clear-cart-btn{
+    padding: 12px 20px;
+    margin-right:  10px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(43, 236, 72);
+}
